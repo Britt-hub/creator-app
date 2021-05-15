@@ -44,8 +44,6 @@ awesome_landing_page/
 
 ### License
 
-- Copyright 2017 Creative Tim (http://www.creative-tim.com)
-- Licensed under MIT (https://github.com/creativetimofficial/awesome-landing-page/blob/master/LICENSE.md)
 
 
 ## Useful Links
