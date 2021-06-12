@@ -7,8 +7,13 @@
 
 + [Live Preview]()
 
-## Languages 
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 
+
+## Languages 
+JavaScript
+React
 
 
 
@@ -17,23 +22,16 @@
 Within the download you'll find the following directories and files:
 
 ```
-awesome_landing_page/
-├── assets/
-|   ├── css/
-|   |   ├── bootstrap.css
-|   |   ├── landing-page.css
-|   |   └── pe-icon-7-stroke.css
-|   ├── js/
-|   |   ├── awesome-landing-page.js
-|   |   ├── bootstrap.js
-|   |   ├── jquery-1.10.2.js
-|   |   ├── jquery-ui-1.10.4.custom.min.js
-|   ├── fonts/
-|   └── img/
-|
-├── index.html
-├── phone_app.html
-└── web_app.html
+Creator-App/
+"@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.2"
+
 
 ```
 
