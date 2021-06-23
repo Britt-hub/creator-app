@@ -1,9 +1,10 @@
-import React from 'react';
+import React, {Component} from 'react';
+// reinstall redux
 import { reduxForm, Field } from "redux-form";
 
-import { FormTitle } from "../formTitle";
+import { FormTitle } from "./formTitle";
 import { FormInput, FormButton } from "../components/formFields";
-import TextLink from "../textLink";
+// import TextLink from "../textLink";
 
 class SignupForm extends Component {
   render() {
@@ -34,8 +35,8 @@ class SignupForm extends Component {
           component={FormButton}
         />
         <div className='sign-up-form__text-links'>
-            <TextLink to='/forgot' text='Forgot Password'/>
-            <TextLink to='/signup' text='Not a member? Register here'/>
+            {/* <TextLink to='/forgot' text='Forgot Password'/>
+            <TextLink to='/signup' text='Not a member? Register here'/> */}
         </div>
 
       </form>
